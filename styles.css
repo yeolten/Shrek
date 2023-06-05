@@ -1,0 +1,59 @@
+.container {
+    max-width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    background-image: url("shrek_background.jpg");
+    background-size: cover;
+    padding: 20px;
+    color: black;
+  }
+  
+  h1 {
+    color: green;
+  }
+  
+  p {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  #banner-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  #banner {
+    max-width: 100%;
+    max-height: 300px;
+  }
+  
+  #ticket {
+    margin-top: 40px;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    color: black;
+  }
+  
+  #ticket h2 {
+    color: green;
+  }
+  
+  #ticket p {
+    margin-bottom: 10px;
+  }
+  h2 {
+    color: green;
+    text-decoration: underline;
+    font-weight: bold;
+  }
+  
+  h2 span {
+    text-decoration: none;
+    font-weight: normal;
+  }
